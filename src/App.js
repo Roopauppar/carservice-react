@@ -12,7 +12,7 @@ import Footer from './components/Landing/Layouts/Footer';
 function App() {
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename="/carservice-react">
         <Navbar />
         <Routes>
         <Route path='/' element={<Home />} />
@@ -20,13 +20,6 @@ function App() {
         <Route path='/services' element={<Services />} />
         <Route path='/contact' element={<Contact />} />
         <Route path='/book' element={<BookNow />} />
-
-
-
-
-
-
-
         </Routes>
 <Footer/>
       </BrowserRouter>
