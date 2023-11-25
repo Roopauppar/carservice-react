@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/carservice-react/static/css/main.a6cc22ef.css",
+    "main.js": "/carservice-react/static/js/main.d929d071.js",
+    "static/js/787.0ca4bb88.chunk.js": "/carservice-react/static/js/787.0ca4bb88.chunk.js",
+    "static/media/car3.jfif": "/carservice-react/static/media/car3.dcd188aa77ac6c916746.jfif",
+    "static/media/car1.jpg": "/carservice-react/static/media/car1.6f6d4ab84c174c71cbae.jpg",
+    "static/media/car2.jpg": "/carservice-react/static/media/car2.d8dd1980412a7bc8c9f5.jpg",
+    "static/media/about4.webp": "/carservice-react/static/media/about4.10396f7539113eaf43bd.webp",
+    "static/media/about2.jpg": "/carservice-react/static/media/about2.1588b6df05b1bc0fa68b.jpg",
+    "static/media/tyress.jpg": "/carservice-react/static/media/tyress.9982e7bd0bb5062774da.jpg",
+    "static/media/robert.jpg": "/carservice-react/static/media/robert.cb26e6a360b2af9e14a4.jpg",
+    "static/media/roi.jpg": "/carservice-react/static/media/roi.dfbf52e5a037f8cbba81.jpg",
+    "static/media/ashley.jpg": "/carservice-react/static/media/ashley.212aac613417c61d44cc.jpg",
+    "static/media/rodney.jpg": "/carservice-react/static/media/rodney.b7632643b45621d15cbf.jpg",
+    "static/media/logo.jpg": "/carservice-react/static/media/logo.6b2482958114019edfab.jpg",
+    "static/media/location.jpg": "/carservice-react/static/media/location.055d0ec6a161f0c53879.jpg",
+    "static/media/pay.jpg": "/carservice-react/static/media/pay.f7e6fc1807bee14ba092.jpg",
+    "static/media/book2.jpg": "/carservice-react/static/media/book2.b6f71367cce11da78394.jpg",
+    "static/media/warranty.jfif": "/carservice-react/static/media/warranty.5a132a2c0da892b1565e.jfif",
+    "index.html": "/carservice-react/index.html",
+    "main.a6cc22ef.css.map": "/carservice-react/static/css/main.a6cc22ef.css.map",
+    "main.d929d071.js.map": "/carservice-react/static/js/main.d929d071.js.map",
+    "787.0ca4bb88.chunk.js.map": "/carservice-react/static/js/787.0ca4bb88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6cc22ef.css",
+    "static/js/main.d929d071.js"
+  ]
+}
