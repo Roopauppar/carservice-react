@@ -10,7 +10,7 @@ const Contact = () => {
                         <div className='contact-image col-lg-12 col-md-12 col-sm-12'>
                             {/* <img className='foodimage' src={img} /> */}
                             <div className="contact-text mt-5 ">
-                                <h2 className="text-white ">Book Now</h2>
+                                <h2 className="text-white ">Contact Us</h2>
                                 <h6 className="text-white ">Lorem ipsum dolor sit amet consectetur adipisicing elit.<br /> Aliquid
                                     labore
                                     maiores totam omnis cumque voluptates<br /> accusantium sapiente architecto, dolorem beatae!

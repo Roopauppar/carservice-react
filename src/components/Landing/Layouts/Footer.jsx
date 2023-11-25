@@ -38,14 +38,14 @@ const Footer = () => {
                     <Link className="text-white nav-link " to="services">Services</Link>
                   </li>
                   <li className="nav-item">
-                    <Link className="text-white nav-link " to="">Contact Us</Link>
+                    <Link className="text-white nav-link " to="contact">Contact Us</Link>
                   </li>
                   <li className="nav-item">
                     <Link className="text-white nav-link " to="about">About Us</Link>
                   </li>
 
                   <li className="nav-item">
-                    <Link className="text-white nav-link " to="">Book Now</Link>
+                    <Link className="text-white nav-link " to="book">Book Now</Link>
                   </li>
                 </ul>
                 </div>
