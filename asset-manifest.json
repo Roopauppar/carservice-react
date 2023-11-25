@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/carservice-react/static/css/main.a6cc22ef.css",
-    "main.js": "/carservice-react/static/js/main.79694c65.js",
+    "main.js": "/carservice-react/static/js/main.42a6009c.js",
     "static/js/787.0ca4bb88.chunk.js": "/carservice-react/static/js/787.0ca4bb88.chunk.js",
     "static/media/car3.jfif": "/carservice-react/static/media/car3.dcd188aa77ac6c916746.jfif",
     "static/media/car1.jpg": "/carservice-react/static/media/car1.6f6d4ab84c174c71cbae.jpg",
@@ -20,11 +20,11 @@
     "static/media/warranty.jfif": "/carservice-react/static/media/warranty.5a132a2c0da892b1565e.jfif",
     "index.html": "/carservice-react/index.html",
     "main.a6cc22ef.css.map": "/carservice-react/static/css/main.a6cc22ef.css.map",
-    "main.79694c65.js.map": "/carservice-react/static/js/main.79694c65.js.map",
+    "main.42a6009c.js.map": "/carservice-react/static/js/main.42a6009c.js.map",
     "787.0ca4bb88.chunk.js.map": "/carservice-react/static/js/787.0ca4bb88.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a6cc22ef.css",
-    "static/js/main.79694c65.js"
+    "static/js/main.42a6009c.js"
   ]
 }
