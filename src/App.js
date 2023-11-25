@@ -1,24 +1,36 @@
-import logo from './logo.svg';
-import './App.css';
+// import { QuickSpin } from './Components/QuickSpin';
+// import './Components/Main.css';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import Navbar from './components/Landing/Layouts/Navbar'
+import Home from './components/Landing/Home'
+import About from './components/Landing/About/About';
+import Services from './components/Landing/Services/Services';
+import Contact from './components/Contact/Contact';
+import BookNow from './components/BookNow/BookNow';
+import Footer from './components/Landing/Layouts/Footer';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <BrowserRouter>
+        <Navbar />
+        <Routes>
+        <Route path='/' element={<Home />} />
+        <Route path='/about' element={<About />} />
+        <Route path='/services' element={<Services />} />
+        <Route path='/contact' element={<Contact />} />
+        <Route path='/book' element={<BookNow />} />
+
+
+
+
+
+
+
+        </Routes>
+<Footer/>
+      </BrowserRouter>
+    </>
   );
 }
 
