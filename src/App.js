@@ -1,6 +1,6 @@
 // import { QuickSpin } from './Components/QuickSpin';
 // import './Components/Main.css';
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import { HashRouter, Route, Routes } from 'react-router-dom';
 import Navbar from './components/Landing/Layouts/Navbar'
 import Home from './components/Landing/Home'
 import About from './components/Landing/About/About';
@@ -12,7 +12,7 @@ import Footer from './components/Landing/Layouts/Footer';
 function App() {
   return (
     <>
-      <BrowserRouter basename="/carservice-react">
+      <HashRouter >
         <Navbar />
         <Routes>
         <Route path='/' element={<Home />} />
@@ -22,7 +22,7 @@ function App() {
         <Route path='/book' element={<BookNow />} />
         </Routes>
 <Footer/>
-      </BrowserRouter>
+      </HashRouter>
     </>
   );
 }
