@@ -12,7 +12,7 @@ import Footer from './components/Landing/Layouts/Footer';
 function App() {
   return (
     <>
-      <HashRouter >
+      <HashRouter>
         <Navbar />
         <Routes>
         <Route path='/' element={<Home />} />
